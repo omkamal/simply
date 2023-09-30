@@ -43,3 +43,7 @@ DISPLAY_PAGES_ON_MENU = False
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 #STATIC_SAVE_AS
+# Example
+STATIC_PATHS = ['images', 'extra']
+# pelicanconf.py
+RELATIVE_URLS = True
