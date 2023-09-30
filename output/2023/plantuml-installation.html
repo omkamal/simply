@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>PlantUML Installation</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <meta name="description" content="PlantUML is a tool to create UML diagrams from a plain text language. It requires Java to run. Here are the steps to install both Java and..." />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">simply</a></h1>
+                <nav><ul>
+                    <li class="active"><a href="/category/documentation.html">Documentation</a></li>
+                    <li><a href="/category/large-language-models.html">Large Language Models</a></li>
+                    <li><a href="/category/review.html">Review</a></li>
+                    <li><a href="/category/training.html">Training</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/2023/plantuml-installation.html" rel="bookmark"
+           title="Permalink to PlantUML Installation">PlantUML Installation</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2023-09-29T00:00:00-07:00">
+                Published: Fri 29 September 2023
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/omar-kamal-hosney.html">Omar Kamal Hosney</a>
+        </address>
+<p>In <a href="/category/documentation.html">Documentation</a>.</p>
+
+</footer><!-- /.post-info -->      <div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>PlantUML is a tool to create UML diagrams from a plain text language. It requires Java to run. Here are the steps to install both Java and PlantUML on Ubuntu.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_installing_java">Installing Java</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>PlantUML runs on Java, so you&#8217;ll need to have the Java Runtime Environment (JRE) or the Java Development Kit (JDK) installed. The OpenJDK is a good choice for this. Here&#8217;s how to install it:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ sudo apt update
+    $ sudo apt install openjdk-11-jdk</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_installing_graphviz">Installing Graphviz</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Graphviz (optional - you don&#8217;t need this if you only need sequence diagrams and activity (beta) diagrams)</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ sudo apt install graphviz</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_download_plantuml_jar">Download <code>plantuml.jar</code></h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Simply download plantuml.jar and run it to open PlantUML&#8217;s graphical user interface. There is no need to unpack or install anything.</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ sudo apt install wget
+    $ wget "https://sourceforge.net/projects/plantuml/files/plantuml.jar/download" -O plantuml.jar</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Move the JAR to a directory in your PATH, for easier access:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ sudo mv plantuml.jar /usr/local/bin/</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>You might also want to create an alias or a script to run PlantUML easily. For example:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ echo "alias plantuml='java -jar /usr/local/bin/plantuml.jar'" &gt;&gt; ~/.bashrc
+    $ source ~/.bashrc</pre>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_verify_plantuml">Verify PlantUML</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>To test if PlantUML is working correctly, you can create a sample .puml file and try to generate a diagram:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>    $ echo "@startuml\nAlice -&gt; Bob: Hello\n@enduml" &gt; test.puml
+    $ plantuml test.puml</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>This should generate a test.png image with a simple UML diagram.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://getpelican.com/">Pelican</a></li>
+                            <li><a href="https://www.python.org/">Python.org</a></li>
+                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+                            <li><a href="/pages/blog-author.html">About</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="https://www.linkedin.com/in/omarebnelkhattab-hosney-9a931b3">linkedin</a></li>
+                            <li><a href="https://twitter.com/omkamal">twitter</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
