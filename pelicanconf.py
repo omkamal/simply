@@ -1,5 +1,5 @@
 AUTHOR = 'Omar Kamal Hosney'
-SITENAME = 'simply'
+SITENAME = 'Simply'
 SITEURL = ''
 
 PATH = 'content'
@@ -20,11 +20,8 @@ PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml']
 ASCIIDOC_CMD = 'asciidoctor'
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('About','pages/blog-author.html'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Home', 'https://omkamal.github.io/simply'),
+         ('Blog Author','https://omkamal.github.io/simply/pages/blog-author.html'))
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/omarebnelkhattab-hosney-9a931b3'),
