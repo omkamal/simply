@@ -4,161 +4,161 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>simply/</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tags.html</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/categories.html</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/authors.html</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/archives.html</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/pages/blog-author.html</loc>
-<lastmod>2023-09-29T23:31:27-00:00</lastmod>
+<loc>/pages/blog-author.html</loc>
+<lastmod>2023-09-29T23:35:43-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/2023/asciidoctor-installation.html</loc>
+<loc>/2023/asciidoctor-installation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/2023/plantuml-installation.html</loc>
+<loc>/2023/plantuml-installation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/2023/what-is-a-large-language-model.html</loc>
+<loc>/2023/what-is-a-large-language-model.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/2023/keyboard-review.html</loc>
+<loc>/2023/keyboard-review.html</loc>
 <lastmod>2023-09-12T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/2010/my-super-post.html</loc>
+<loc>/2010/my-super-post.html</loc>
 <lastmod>2010-10-04T18:40:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/category/documentation.html</loc>
+<loc>/category/documentation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/category/large-language-models.html</loc>
+<loc>/category/large-language-models.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/category/review.html</loc>
+<loc>/category/review.html</loc>
 <lastmod>2023-09-12T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/category/training.html</loc>
+<loc>/category/training.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tag/diagrams-as-code.html</loc>
+<loc>/tag/diagrams-as-code.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tag/ai.html</loc>
+<loc>/tag/ai.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tag/llm.html</loc>
+<loc>/tag/llm.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tag/thats.html</loc>
+<loc>/tag/thats.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/tag/awesome.html</loc>
+<loc>/tag/awesome.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/author/alexis-metaireau.html</loc>
+<loc>/author/alexis-metaireau.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/author/conan-doyle.html</loc>
+<loc>/author/conan-doyle.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>simply/author/omar-kamal-hosney.html</loc>
+<loc>/author/omar-kamal-hosney.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
