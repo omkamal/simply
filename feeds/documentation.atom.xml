@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Simply - Documentation</title><link href="https://omkamal.github.io/" rel="alternate"></link><link href="https://omkamal.github.io/feeds/documentation.atom.xml" rel="self"></link><id>https://omkamal.github.io/</id><updated>2023-09-29T00:00:00-07:00</updated><entry><title>AsciiDoctor Installation</title><link href="https://omkamal.github.io/2023/asciidoctor-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:omkamal.github.io,2023-09-29:/2023/asciidoctor-installation.html</id><summary type="html">&lt;div class="sect1"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Simply - Documentation</title><link href="/" rel="alternate"></link><link href="/feeds/documentation.atom.xml" rel="self"></link><id>/</id><updated>2023-09-29T00:00:00-07:00</updated><entry><title>AsciiDoctor Installation</title><link href="/2023/asciidoctor-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:None,2023-09-29:/2023/asciidoctor-installation.html</id><summary type="html">&lt;div class="sect1"&gt;
 &lt;h2 id="_asciidoc_installation"&gt;AsciiDoc Installation&lt;/h2&gt;
 &lt;div class="sectionbody"&gt;
 &lt;div class="paragraph"&gt;
@@ -291,7 +291,7 @@ Remember, when you use asciidoctor-diagram, you&amp;#8217;re invoking external t
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><category term="Documentation"></category><category term="Diagrams as Code"></category></entry><entry><title>PlantUML Installation</title><link href="https://omkamal.github.io/2023/plantuml-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:omkamal.github.io,2023-09-29:/2023/plantuml-installation.html</id><summary type="html">&lt;div id="preamble"&gt;
+&lt;/div&gt;</content><category term="Documentation"></category><category term="Diagrams as Code"></category></entry><entry><title>PlantUML Installation</title><link href="/2023/plantuml-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:None,2023-09-29:/2023/plantuml-installation.html</id><summary type="html">&lt;div id="preamble"&gt;
 &lt;div class="sectionbody"&gt;
 &lt;div class="paragraph"&gt;
 &lt;p&gt;PlantUML is a tool to create UML diagrams from a plain text language. It requires Java to run. Here are the steps to install both Java and PlantUML on Ubuntu.&lt;/p&gt;
