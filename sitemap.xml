@@ -4,161 +4,161 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tags.html</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/tags.html</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/categories.html</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/categories.html</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/authors.html</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/authors.html</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/archives.html</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/archives.html</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/pages/blog-author.html</loc>
-<lastmod>2023-09-29T22:53:14-00:00</lastmod>
+<loc>https://omkamal.github.io/pages/blog-author.html</loc>
+<lastmod>2023-09-29T22:55:40-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/2023/asciidoctor-installation.html</loc>
+<loc>https://omkamal.github.io/2023/asciidoctor-installation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/2023/plantuml-installation.html</loc>
+<loc>https://omkamal.github.io/2023/plantuml-installation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/2023/what-is-a-large-language-model.html</loc>
+<loc>https://omkamal.github.io/2023/what-is-a-large-language-model.html</loc>
 <lastmod>2023-09-29T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/2023/keyboard-review.html</loc>
+<loc>https://omkamal.github.io/2023/keyboard-review.html</loc>
 <lastmod>2023-09-12T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/2010/my-super-post.html</loc>
+<loc>https://omkamal.github.io/2010/my-super-post.html</loc>
 <lastmod>2010-10-04T18:40:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/category/documentation.html</loc>
+<loc>https://omkamal.github.io/category/documentation.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/category/large-language-models.html</loc>
+<loc>https://omkamal.github.io/category/large-language-models.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/category/review.html</loc>
+<loc>https://omkamal.github.io/category/review.html</loc>
 <lastmod>2023-09-12T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/category/training.html</loc>
+<loc>https://omkamal.github.io/category/training.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tag/diagrams-as-code.html</loc>
+<loc>https://omkamal.github.io/tag/diagrams-as-code.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tag/ai.html</loc>
+<loc>https://omkamal.github.io/tag/ai.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tag/llm.html</loc>
+<loc>https://omkamal.github.io/tag/llm.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tag/thats.html</loc>
+<loc>https://omkamal.github.io/tag/thats.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/tag/awesome.html</loc>
+<loc>https://omkamal.github.io/tag/awesome.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/author/alexis-metaireau.html</loc>
+<loc>https://omkamal.github.io/author/alexis-metaireau.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/author/conan-doyle.html</loc>
+<loc>https://omkamal.github.io/author/conan-doyle.html</loc>
 <lastmod>2010-10-04T18:40:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omkamal.github.io/simply/index.html/author/omar-kamal-hosney.html</loc>
+<loc>https://omkamal.github.io/author/omar-kamal-hosney.html</loc>
 <lastmod>2023-09-29T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
