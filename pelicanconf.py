@@ -23,7 +23,7 @@ ASCIIDOC_CMD = 'asciidoctor'
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('About','/pages/blog-author.html'),
+         ('About','simply/pages/blog-author.html'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
