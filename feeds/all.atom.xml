@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Simply</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-09-29T00:00:00-07:00</updated><entry><title>AsciiDoctor Installation</title><link href="/2023/asciidoctor-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:None,2023-09-29:/2023/asciidoctor-installation.html</id><summary type="html">&lt;div class="sect1"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>simply</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-09-29T00:00:00-07:00</updated><entry><title>AsciiDoctor Installation</title><link href="/2023/asciidoctor-installation.html" rel="alternate"></link><published>2023-09-29T00:00:00-07:00</published><updated>2023-09-29T00:00:00-07:00</updated><author><name>Omar Kamal Hosney</name></author><id>tag:None,2023-09-29:/2023/asciidoctor-installation.html</id><summary type="html">&lt;div class="sect1"&gt;
 &lt;h2 id="_asciidoc_installation"&gt;AsciiDoc Installation&lt;/h2&gt;
 &lt;div class="sectionbody"&gt;
 &lt;div class="paragraph"&gt;
