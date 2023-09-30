@@ -1,6 +1,6 @@
 AUTHOR = 'Omar Kamal Hosney'
 SITENAME = 'Simply'
-SITEURL = ''
+SITEURL = 'https://omkamal.github.io/simply/'
 
 PATH = 'content'
 
