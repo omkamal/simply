@@ -1,0 +1,33 @@
+= Top Large Language Models 
+:date: 2023-09-30
+:author: Omar Kamal Hosney
+:category: Large Language Models
+:tags: LLM
+
+
+In the burgeoning field of artificial intelligence (AI), large language models (LLMs) have come to the fore due to their remarkable capabilities in understanding and generating human-like text. The landscape of LLMs is led by a few key players, each offering distinct models under various licensing models. This article presents a concise examination of the current top large language models, the licenses under which they are released, and the vendors behind them.
+
+== OpenAI's GPT-4
+
+GPT-4, the latest iteration from OpenAI, continues the legacy of its predecessors by offering enhanced natural language processing (NLP) capabilities. The model is known for its proficiency in tasks such as translation, summarization, and conversation.
+
+* *License:* OpenAI has not publicly disclosed the licensing terms for GPT-4 as of now. However, previous versions like GPT-3 were accessible via an API with associated costs.
+* *Vendor:* OpenAI
+
+== Google's BERT and T5
+
+Google has been a stalwart in the domain with models like BERT and T5, which have set benchmarks in various NLP tasks.
+
+* *License:* Both models are released under the Apache License 2.0, encouraging a wide range of applications both in academia and the industry.
+* *Vendor:* Google
+
+== Facebook's BART and RoBERTa
+
+Facebook’s contributions, BART and RoBERTa, have also made significant strides in the realm of NLP. They excel in different NLP tasks like question answering and sentiment analysis.
+
+* *License:* These models are open-sourced under the MIT license, promoting a high level of accessibility and modification.
+* *Vendor:* Facebook
+
+== Conclusion
+
+The top large language models today are spearheaded by tech giants like OpenAI, Google, and Facebook. The licensing models largely fall under open-source licenses like Apache 2.0 and MIT, fostering a collaborative and innovative ecosystem. Each vendor, with their respective models, contributes to pushing the boundaries of what is achievable in NLP, and by extension, AI.
