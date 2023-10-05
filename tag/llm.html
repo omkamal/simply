@@ -1,91 +1,175 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Simply</title>
-	<meta name="description" content="">
-	<meta name="author" content="Omar Kamal Hosney">
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
-	<!--[if lt IE 9]>
-		<script src="../theme/html5.js"></script>
-	<![endif]-->
+		<title>Simply</title>
+		<meta name="description" content="">
+		<meta name="author" content="Omar Kamal Hosney">
 
-	<!-- Styles -->
-	<link href="../theme/bootstrap.min.css" rel="stylesheet">
-	<link href="../theme/local.css" rel="stylesheet">
-	<link href="../theme/pygments.css" rel="stylesheet">
-
-	<!-- Feeds -->
+		<link rel="stylesheet" href="../theme/css/foundation.css" />
+		<link rel="stylesheet" href="../theme/css/pygment/monokai.css" />
+		<link rel="stylesheet" href="../theme/css/custom.css" />
 
 
+		<script src="../theme/js/modernizr.js"></script>
+
+		<!-- Feeds -->
 
 
-</head>
-<body>
-	<div class="topbar">
-	  <div class="topbar-inner">
-		<div class="container-fluid">
-		  <a class="brand" href="../">Simply</a>
-			<ul class="nav">
-					<li ><a href="../category/documentation.html">Documentation</a></li>
-					<li ><a href="../category/large-language-models.html">Large Language Models</a></li>
-			</ul>
-			<p class="pull-right"><a href="../archives.html">[archives]</a> <a href="../tags.html">[tags]</a></p>
-		</div>
-	  </div>
-	</div>
+		<!-- mathjax config similar to math.stackexchange -->
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			jax: ["input/TeX", "output/HTML-CSS"],
+			tex2jax: {
+				inlineMath: [ ['$', '$'] ],
+				displayMath: [ ['$$', '$$']],
+				processEscapes: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+			},
+			messageStyle: "none",
+			"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+		});
+		</script>
+		<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	</head>
+	<body>
+		<div class="off-canvas-wrap">
+			<div class="inner-wrap">
+				<!-- mobile top bar to activate nav -->
+				<nav class="tab-bar show-for-small">
+					<section class="left-small">
+						<a class="left-off-canvas-toggle menu-icon" ><span></span></a>
+					</section>
 
-	<div class="container-fluid">
-	  <div class="sidebar">
-		<div class="well">
-			<h3>Blogroll</h3>
-			<ul>
-				<li><a href="https://omkamal.github.io/simply">Home</a></li>
-				<li><a href="https://omkamal.github.io/simply/pages/blog-author.html">Blog Author</a></li>
-			</ul>
-			<div class="social">
-			<h3>Social</h3>
-			<ul>
-				<li><a href="https://www.linkedin.com/in/omarebnelkhattab-hosney-9a931b3">linkedin</a></li>
-				<li><a href="https://twitter.com/omkamal">twitter</a></li>
-			</ul>
-			</div>
-		</div>
-	  </div>
-	  <div class="content">
-<div class="page-header"><h1>Simply <small>LLM</small></h1></div>
-<div class='article'>
-	<h2>Top Large Language Models</h2>
-	<div class="well small">Permalink: <a class="more" href="../2023/top-large-language-models.html">2023-09-30 00:00:00-07:00</a>
-by <a class="url fn" href="../author/omar-kamal-hosney.html">Omar Kamal Hosney </a>
- in <a href="../category/large-language-models.html">Large Language Models</a>
-tags: <a href="../tag/llm.html">LLM</a> </div>
-	<div class="summary"><div id="preamble">
+					<section class="middle tab-bar-section">
+						<h1 class="title">Simply</h1>
+					</section>
+				</nav>
+
+				<!-- mobile side bar nav -->
+				<aside class="left-off-canvas-menu">
+					<ul class="off-canvas-list">
+						<li><a href="..">Home</a></li>
+						<li><label>Categories</label></li>
+							<li ><a href="../category/documentation.html">Documentation</a></li>
+							<li ><a href="../category/large-language-models.html">Large Language Models</a></li>
+
+						<li><label>Links</label></li>
+							<li><a href="https://omkamal.github.io/simply">Home</a></li>
+							<li><a href="https://omkamal.github.io/simply/pages/blog-author.html">Blog Author</a></li>
+
+
+
+						<li><label>Social</label></li>
+							<li><a href="https://www.linkedin.com/in/omarebnelkhattab-hosney-9a931b3">linkedin</a></li>
+							<li><a href="https://twitter.com/omkamal">twitter</a></li>
+					</ul>	
+				</aside>
+
+				<!-- top bar nav -->
+				<nav class="top-bar hide-for-small-only" data-topbar>
+					<ul class="title-area">
+						<li class="name">
+							<h1><a href="../">Simply</a></h1>
+						</li>
+					</ul>
+
+					<section class="top-bar-section">
+						<ul class="left">
+								<li ><a href="../category/documentation.html">Documentation</a></li>
+								<li ><a href="../category/large-language-models.html">Large Language Models</a></li>
+						</ul>
+                        <ul class="right">                                                                                                                                           
+                                                                                                          
+····                                                                                                                                       
+                                     <li><a href="../pages/blog-author.html">Blog Author</a></li>                                    
+                                                                                                                                          
+                                                                                                                                             
+                        </ul>  
+					</section>
+				</nav>
+
+				<!-- Main Page Content and Sidebar -->
+				<section class="main-section">
+					<div class="row">
+						<!-- Main Content -->
+						<div class="medium-9 small-12 columns" role="content">
+							<div class="row">
+								<div class="small-12 columns">
+									<h2>Posts Tagged With 'LLM'</h2>
+								</div>
+							</div>
+
+<article>
+	<h3><a href="../2023/top-large-language-models.html">Top Large Language Models</a></h3>
+	<h6>Written by <a href="../author/omar-kamal-hosney.html">Omar Kamal Hosney</a> in <a href="../category/large-language-models.html">Large Language Models</a> on Sat 30 September 2023. Tags: <a href="../tag/llm.html">LLM</a>, </h6>
+	<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p>In the burgeoning field of artificial intelligence (AI), large language models (LLMs) have come to the fore due to their remarkable capabilities in understanding and generating human-like text. The landscape of LLMs is led by a few key players, each offering distinct models under various licensing models. This article presents …</p></div></div></div> <a class="btn primary xsmall" href="../2023/top-large-language-models.html">more…</a>
-	</div>
-</div>	
-<div class='article'>
-	<h2>What is a Large Language Model</h2>
-	<div class="well small">Permalink: <a class="more" href="../2023/what-is-a-large-language-model.html">2023-09-29 00:00:00-07:00</a>
-by <a class="url fn" href="../author/omar-kamal-hosney.html">Omar Kamal Hosney </a>
- in <a href="../category/large-language-models.html">Large Language Models</a>
-tags: <a href="../tag/ai.html">AI</a> <a href="../tag/llm.html">LLM</a> </div>
-	<div class="summary"><h1>Understanding Large Language Models: Like Having a Super Smart Robot Friend!</h1>
+<p>In the burgeoning field of artificial intelligence (AI), large language models (LLMs) have come to the fore due to their remarkable capabilities in understanding and generating human-like text. The landscape of LLMs is led by a few key players, each offering distinct models under various licensing models. This article presents …</p></div></div></div>
+		<p class="continue"><a href="../2023/top-large-language-models.html">Continue reading &raquo;</a></p>
+</article>
+<hr />
+<article>
+	<h3><a href="../2023/what-is-a-large-language-model.html">What is a Large Language Model</a></h3>
+	<h6>Written by <a href="../author/omar-kamal-hosney.html">Omar Kamal Hosney</a> in <a href="../category/large-language-models.html">Large Language Models</a> on Fri 29 September 2023. Tags: <a href="../tag/ai.html">AI</a>, <a href="../tag/llm.html">LLM</a>, </h6>
+	<h1>Understanding Large Language Models: Like Having a Super Smart Robot Friend!</h1>
 <p>Hey there, 5th grader! Have you ever heard about something called a "large language model"? It might sound complicated, but don't worry; I'm here to explain it to you in a way that's super easy to understand.</p>
-<h2>What's a …</h2> <a class="btn primary xsmall" href="../2023/what-is-a-large-language-model.html">more…</a>
-	</div>
-</div>	
+<h2>What's a …</h2>
+		<p class="continue"><a href="../2023/what-is-a-large-language-model.html">Continue reading &raquo;</a></p>
+</article>
+<hr />
 
 
-		<footer>
-		  <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
-		  <p>&copy; Omar Kamal Hosney</p>
-		</footer>
-	  </div>
+						</div>
+						<!-- End Main Content -->
+						<!-- Sidebar -->
+						<aside class="medium-3 hide-for-small-only columns">
+							<div class="panel">
+								<h5>Links</h5>
+								<ul class="side-nav">
+									<li><a href="https://omkamal.github.io/simply">Home</a></li>
+									<li><a href="https://omkamal.github.io/simply/pages/blog-author.html">Blog Author</a></li>
+								</ul>
+							</div>
 
-	</div>
-</body>
+							<div class="panel">
+								<h5>Tags</h5>
+								<ul class="tag-cloud">
+								</ul>
+							</div>
+
+
+							<div class="panel">
+								<h5>Social</h5>
+								<ul class="side-nav">
+									<li><a href="https://www.linkedin.com/in/omarebnelkhattab-hosney-9a931b3">linkedin</a></li>
+									<li><a href="https://twitter.com/omkamal">twitter</a></li>
+								</ul>
+							</div>
+						</aside>
+						<!-- End Sidebar -->
+					</div>
+
+					<!-- Footer -->
+					<footer class="row">
+						<div class="medium-9 small-12">
+							<hr/>
+							<p class="text-center">Powered by <a href="http://getpelican.com">Pelican</a> and <a href="http://foundation.zurb.com/">Zurb Foundation</a>. Theme by <a href="http://hamaluik.com">Kenton Hamaluik</a>.</p>
+						</div>
+					</footer>
+					<!-- End Footer -->
+				</section>
+				<a class="exit-off-canvas"></a>
+			</div><!--off-canvas inner-->
+		</div><!--off-canvas wrap-->
+
+		<script src="../theme/js/jquery.js"></script>
+		<script src="../theme/js/foundation.min.js"></script>
+		<script>
+			$(document).foundation();
+		</script>
+	</body>
 </html>
