@@ -14,11 +14,11 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-DISQUS_SITENAME = 'https://simply-4.disqus.com/'
+DISQUS_SITENAME = 'http-omkamal-github-io-simply'
 
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml']
+PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml',u"disqus_static"]
 ASCIIDOC_CMD = 'asciidoctor'
 
 # Blogroll
