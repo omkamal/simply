@@ -18,7 +18,7 @@ DISQUS_SITENAME = 'http-omkamal-github-io-simply'
 
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml',u"disqus_static"]
+PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml']
 ASCIIDOC_CMD = 'asciidoctor'
 
 # Blogroll
