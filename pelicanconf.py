@@ -14,6 +14,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+DISQUS_SITENAME = 'https://simply-4.disqus.com/'
+
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['assets', 'sitemap','asciidoc_reader','plantuml']
