@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 #DISQUS_SITENAME = 'http-omkamal-github-io-simply'
 #PELICAN_COMMENT_SYSTEM = True
-THEME = "./pelican-themes/bootstrap"
+THEME = "./pelican-themes/foundation-default-colours"
 
 
 PLUGIN_PATHS = ['pelican-plugins']
