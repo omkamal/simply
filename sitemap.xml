@@ -5,49 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/blog-author.html</loc>
-<lastmod>2023-11-22T18:30:33-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2023/new-trends-in-ml-algorithms.html</loc>
-<lastmod>2023-11-22T00:00:00-08:00</lastmod>
+<lastmod>2023-11-23T16:40:53-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -102,20 +95,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/category/machine-learning.html</loc>
-<lastmod>2023-11-22T00:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/algorithms.html</loc>
-<lastmod>2023-11-22T00:00:00-07:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>/tag/diagrams-as-code.html</loc>
 <lastmod>2023-10-04T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
@@ -138,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/omar-kamal-hosney.html</loc>
-<lastmod>2023-11-22T00:00:00-07:53</lastmod>
+<lastmod>2023-10-04T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
