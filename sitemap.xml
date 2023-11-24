@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/blog-author.html</loc>
-<lastmod>2023-11-23T16:40:53-00:00</lastmod>
+<lastmod>2023-11-23T16:50:52-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -54,6 +54,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/2023/top-large-language-models.html</loc>
+<lastmod>2023-09-30T00:00:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2023/what-is-gradient-descent.html</loc>
 <lastmod>2023-09-30T00:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -103,6 +110,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/llm.html</loc>
+<lastmod>2023-09-30T00:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/machine-learning.html</loc>
 <lastmod>2023-09-30T00:00:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
